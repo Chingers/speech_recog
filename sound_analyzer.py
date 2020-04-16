@@ -1,15 +1,13 @@
 import os
 from os.path import join
 import librosa   #for audio processing
-import IPython.display as ipd
 import matplotlib.pyplot as plt
 import numpy as np
-from scipy.io import wavfile #for audio processing
 import warnings
 warnings.filterwarnings("ignore")
 
 folder = "my_sounds"
-filename = "up.wav"
+filename = "background.wav"
 new_sample_rate = 8000
 sample_audio_file = join(folder, filename)
 samples, sample_rate = librosa.load(sample_audio_file, sr = 16000)
