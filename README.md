@@ -4,5 +4,5 @@ classifiers. In the main entry point, you can also run the command "--command pr
 liking.
 
 Inpirations of model Architecures that I expiremented with came from here:
-https://github.com/lukas/ml-class/tree/master/videos
-https://medium.com/@fortes.arthur/hands-on-speech-recognition-engine-with-keras-and-python-c60488ac53cd
+- https://github.com/lukas/ml-class/tree/master/videos
+- https://medium.com/@fortes.arthur/hands-on-speech-recognition-engine-with-keras-and-python-c60488ac53cd
